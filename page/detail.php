@@ -310,7 +310,7 @@
                 <nav class="mx-auto my-4 px-2 container" aria-label="Breadcrumb">
                     <ol class="list-none p-0 block" vocab="https://schema.org/" typeof="BreadcrumbList">
                         <li property="itemListElement" typeof="ListItem" class="inline items-center pr-2">
-                            <a property="item" typeof="WebPage" title="" href="/index.php"
+                            <a property="item" typeof="WebPage" title="" href="/index.html"
                                class="text-primary hover:text-secondary">
                                 <span property="name">Trang chủ</span>
                             </a>
